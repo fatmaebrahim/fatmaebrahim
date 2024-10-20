@@ -15,9 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fatmaebrahim&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaebrahim&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fatmaebrahim&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=fatmaebrahim&icon=10&color=9)](https://visitcount.itsvg.in)
 
