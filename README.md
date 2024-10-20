@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋 Hi, I’m Fatma Ebrahim!<br>👩‍💻 Software Developer from Cairo, Egypt.<br>💻 Passionate about both backend and frontend development.<br>🛠️ Backend: Go, Django, Node.js, Express.js, MySQL, MongoDB.<br>🎨 Frontend: React, Next.js, Vue, Tailwind, Bootstrap.<br>🚀 Proficient with tools like Docker, Kubernetes, Helm Charts, and CI workflows.<br>💡 Continuously enhancing my skills to build scalable and efficient software.<br>🤝 Open to collaboration on impactful and innovative projects.
+# 👋 Hi, I’m Fatma Ebrahim!<br>
+👩‍💻 Software Developer from Cairo, Egypt.<br>
+💻 Studying Computer Engineering @ Cairo University.<br>
+💡 Continuously enhancing my skills to build scalable and efficient software.<br>
+🤝 Open to collaboration on impactful and innovative projects.
 
 
 ## 🌐 Socials:
